@@ -1,0 +1,14 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.xml
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.home.resources
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.LogIn.resources
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.About.resources
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Resources.resources
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.SplashScreen1.resources
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbproj.GenerateResource.Cache
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.xml
+C:\Users\User\OneDrive\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.pdb
